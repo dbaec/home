@@ -14,5 +14,5 @@ reset: true
 });
 
 sr.reveal('.d-text',{delay:200, origin:'top'});
-sr.reveal('.dpic',{delay:500, origin:'right'});
+sr.reveal('.dpic',{delay:450, origin:'right'});
 sr.reveal('.icons',{delay:500, origin:'left'});
